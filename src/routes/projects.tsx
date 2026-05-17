@@ -89,7 +89,7 @@ function Projects() {
                 </div>
                 <div className="mt-6 flex flex-wrap gap-3">
                   <a
-                    href={p.github}
+                    href={"https://github.com/Rohan-Chittora1/LeetSyncGit"}
                     target="_blank"
                     rel="noreferrer"
                     className="inline-flex items-center gap-2 rounded-full glass px-4 py-2 text-sm font-medium hover:border-foreground/20"
