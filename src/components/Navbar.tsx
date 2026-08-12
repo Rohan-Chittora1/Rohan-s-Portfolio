@@ -75,7 +75,7 @@ export function Navbar() {
             {theme === "dark" ? <FiSun size={16} /> : <FiMoon size={16} />}
           </button>
           <a
-            href="/resume.pdf"
+            href="/Rohan_Chittora's_Resume.pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="hidden sm:inline-flex items-center gap-2 rounded-full px-4 py-2 text-sm font-medium bg-gradient-brand text-white animate-gradient-pan ring-glow hover:scale-[1.02] transition-transform"
@@ -112,7 +112,7 @@ export function Navbar() {
               </Link>
             ))}
             <a
-              href="/resume.pdf"
+              href="/Rohan_Chittora's_Resume.pdf"
               download
               className="mt-1 inline-flex items-center justify-center gap-2 rounded-lg px-4 py-2 text-sm font-medium bg-gradient-brand text-white"
             >
